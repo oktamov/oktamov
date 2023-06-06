@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://mail.ru/mr006developer@gmail.com" target="_blank">Oktamov</a> 
+<h1 align="center">Hi there, I'm <a href="mr006developer@gmail.com" target="_blank">Oktamov</a> 
 <h1 align="center">Telegram<a href="https://t.me/Tg_messanger" target="_blank">link</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
