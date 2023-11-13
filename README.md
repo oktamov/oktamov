@@ -7,7 +7,7 @@
 🧑🏻‍💻 I'm Ruziali Uktamov. I'm 17 years old. My job is Backend developer. <br>
 👨🏻‍🎓 Education - PDP Academy (2022-2023)
 🔭 I am currently doing an internship in the PDP Practicum project.<br>
-💬 Ask me about Django, Django REST Framework, web development, or anything related to programming.<br>
+💬 Ask me about Django, Django REST Framework, web development, or anything related to programming
 
 
 ### Connect with me:
