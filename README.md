@@ -10,15 +10,12 @@
 💬 Ask me about Django, Django REST Framework, web development, or anything related to programming.<br>
 
 
-<!-- ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kamila.murodovna) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@muslimazokirjonova2004)  -->
-
 ### Connect with me:
 
-<a href="www.linkedin.com/in/roziali-oktamov-269336263"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="mailto.rozialioktamov944@gmail.com"><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw2oQ9pLESj4_4ES_c4Mj0LQ&ust=1699940097918000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi2-cqgwIIDFQAAAAAdAAAAABAJ" width="21px"/></a>
+<a href="https://www.linkedin.com/in/muslima-zokirjonova-a45694279/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://leetcode.com/Muslima_03/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
 
- 
+ 💬 When you happen to have any questions or comments, please feel free to contact me!
  </br>
 <!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
 
