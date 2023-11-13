@@ -18,7 +18,7 @@
 
 
  </br>
-- 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf)
+- 🔶 Learn about my experiences through this. [Resume](https://github.com/oktamov/oktamov/blob/main/oktamov.pdf)
 
 
 
