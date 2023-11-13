@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/roziali-oktamov-269336263/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://mailto.rozialioktamov944@gmail.com"><img align="left" src="@styled-icons/boxicons-logos/Gmail" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://mailto.rozialioktamov944@gmail.com"> Email</a>
 
  💬 When you happen to have any questions or comments, please feel free to contact me!
  </br>
