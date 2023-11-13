@@ -18,7 +18,7 @@
 
 
  </br>
-- 🔶 Learn about my experiences through this. [Resume](https://github.com/oktamov/oktamov/blob/main/oktamov.pdf)
+<!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/oktamov/oktamov/blob/main/oktamov.pdf) -->
 
 
 
@@ -28,9 +28,7 @@
 ![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/SQLAlchemy-informational?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/AWS%20RDS-yellow?style=flat&logo=Amazon%20AWS&logoColor=white)
 
 ![](https://img.shields.io/badge/AWS%20S3-informational?style=flat&logo=amazon%20aws&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/MinIO-%23F05033?style=flat&logo=minio&logoColor=white)
@@ -74,7 +72,6 @@
 
 
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
-[![Prezi](https://img.shields.io/badge/Prezi-informational?style=flat&logo=Prezi&color=FF6C34)](https://www.prezi.com)
 ![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
