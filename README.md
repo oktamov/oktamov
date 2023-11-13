@@ -13,12 +13,12 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/roziali-oktamov-269336263/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> <br>
-<p>Email:  #rozialioktamov944@gmail.com</p>
+<p>Email:  rozialioktamov944@gmail.com</p>
+<p>Phone: +998913973081</p>
 
 
- 💬 When you happen to have any questions or comments, please feel free to contact me!
  </br>
-<!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
+- 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf)
 
 
 
