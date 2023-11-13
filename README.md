@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-<a href="www.linkedin.com/in/roziali-oktamov-269336263"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> <p>   </p>
+<a href="www.linkedin.com/in/roziali-oktamov-269336263"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="mailto.rozialioktamov944@gmail.com"><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw2oQ9pLESj4_4ES_c4Mj0LQ&ust=1699940097918000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi2-cqgwIIDFQAAAAAdAAAAABAJ" width="21px"/></a>
 
  
