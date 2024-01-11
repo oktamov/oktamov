@@ -5,8 +5,7 @@
 
 #  About Me:
 🧑🏻‍💻 I'm Ruziali Uktamov. I'm 17 years old. My job is Backend developer. <br>
-👨🏻‍🎓 Education - PDP Academy (2022-2023). <br>
-🔭 I am currently doing an internship in the PDP Practicum project.<br>
+👨🏻‍🎓 Education - PDP Academy (2022-2023).<br>
 
 
 
