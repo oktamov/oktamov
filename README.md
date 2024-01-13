@@ -12,7 +12,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/roziali-oktamov-269336263/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> <br>
-<p>Email:  rozialioktamov944@gmail.com</p>
+<p>Email:  oktamovdev@gmail.com</p>
 <p>Phone: +998913973081</p>
 
 
