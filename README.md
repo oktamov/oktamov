@@ -89,9 +89,9 @@
  
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=oktamov&theme=tokyonight&hide_border=true" alt="oktamov">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=oktamov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktamov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganiyevuz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 
