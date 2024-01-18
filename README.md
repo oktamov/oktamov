@@ -9,11 +9,9 @@
 
 
 
-### Connect with me:
+## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/roziali-oktamov-269336263/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> <br>
-<p>Email:  oktamovdev@gmail.com</p>
-<p>Phone: +998913973081</p>
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://OktamovR.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oktamov)  [![Gmail](https://img.shields.io/badge/oktamovdev@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:oktamovdev@gmail.com)
 
 
  </br>
