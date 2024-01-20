@@ -20,24 +20,23 @@
 
 
 
-## Technical Skills
+# Technical Skills
 
 ![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/SQLAlchemy-informational?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-![](https://img.shields.io/badge/AWS%20S3-informational?style=flat&logo=amazon%20aws&logoColor=white&color=FF9900)
-![](https://img.shields.io/badge/MinIO-%23F05033?style=flat&logo=minio&logoColor=white)
 </br>
 
 ![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/FastAPI-%23007D9C?style=flat&logo=FastAPI&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
+![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
 
 ![](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=white)
@@ -72,7 +71,8 @@
 ![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-
+![](https://img.shields.io/badge/AWS%20S3-informational?style=flat&logo=amazon%20aws&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/MinIO-%23F05033?style=flat&logo=minio&logoColor=white)
 
 
 </br>
