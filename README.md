@@ -71,9 +71,6 @@
 ![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![](https://img.shields.io/badge/AWS%20S3-informational?style=flat&logo=amazon%20aws&logoColor=white&color=FF9900)
-![](https://img.shields.io/badge/MinIO-%23F05033?style=flat&logo=minio&logoColor=white)
-
 
 </br>
 
