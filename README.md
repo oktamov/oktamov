@@ -37,6 +37,8 @@
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
+![](https://img.shields.io/badge/WebSocket-%2300CCBB?style=flat&logo=WebSocket&logoColor=white)
+
 
 ![](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/Celery-green?style=flat&logo=Celery&logoColor=white)
@@ -58,18 +60,6 @@
 ![](https://img.shields.io/badge/Docker-information?color=%230db7ed&style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Docker%20Compose-%231767E5?style=flat&logo=docker&logoColor=white)
 
-[![](https://img.shields.io/badge/Elasticsearch-information?color=005571&style=flat&logo=elasticsearch&logoColor=orange)](https://www.elastic.co/)
-![](https://img.shields.io/badge/WebSocket-%2300CCBB?style=flat&logo=WebSocket&logoColor=white)
-![](https://img.shields.io/badge/i18n-%2300CCBB?style=flat&logo=Python&logoColor=white)
-[![](https://img.shields.io/badge/Python%20Core-information?color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/Python%20Web-information?color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
-
-
-
-
-![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
-![](https://img.shields.io/badge/PyTest-%23FF5733?style=flat&logo=PyTest&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
 </br>
