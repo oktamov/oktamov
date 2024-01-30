@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://OktamovR.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oktamov)  [![Gmail](https://img.shields.io/badge/oktamovdev@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:oktamovdev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://OktamovR.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oktamov)  [![Gmail](https://img.shields.io/badge/email@oktamov.uz-%230077B5.svg?logo=google&logoColor=white)](mailto:oktamovdev@gmail.com)
 
 
  </br>
