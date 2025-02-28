@@ -8,7 +8,7 @@
 👨🏻‍🎓 Education - PDP Academy (2022-2023).<br>
 
 <p align="center">
-<a href="https://wakatime.com/@oktamov" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
+<a href="https://wakatime.com/@oktamov" target="_blank"><img src="https://wakatime.com/badge/user/145e43ca-e835-4a7b-b189-285f4a297bf2.svg" /></a>
 </p>
 
 
