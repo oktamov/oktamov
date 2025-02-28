@@ -4,7 +4,7 @@
 
 
 #  About Me:
-🧑🏻‍💻 I'm Ruziali Uktamov. I'm 18 years old. Python developer at xcdm.ai company<br>
+🧑🏻‍💻 I'm Ruziali Uktamov. Python developer at xcdm.ai company<br>
 👨🏻‍🎓 Education - PDP Academy (2022-2023).<br>
 
 
