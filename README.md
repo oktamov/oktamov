@@ -4,7 +4,7 @@
 
 
 #  About Me:
-🧑🏻‍💻 I'm Ruziali Uktamov. Python developer at xcdm.ai company<br>
+🧑🏻‍💻 I'm RoziAli Oktamov. Python developer at xcdm.ai <br>
 👨🏻‍🎓 Education - PDP Academy (2022-2023).<br>
 
 <p align="center">
