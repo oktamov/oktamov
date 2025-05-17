@@ -32,16 +32,18 @@
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
 
-![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
 ![](https://img.shields.io/badge/WebSocket-%2300CCBB?style=flat&logo=WebSocket&logoColor=white)
+
+
+![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 
 
 ![](https://img.shields.io/badge/JWT-information?color=black&style=flat&logo=JSON%20web%20tokens)
